@@ -1,6 +1,6 @@
 # News
 
-News app compatible with web and android
+News app compatible with web and android made with Firebase
 
 ## Preview
 
